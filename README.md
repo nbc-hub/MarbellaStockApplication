@@ -1,7 +1,7 @@
 # MarbellaStockApplication
 Marbella Stock Application
 
-Bu Uygulama Marbella Natural Stone A.Ş. içim geliştirilmiştir.
+Bu Uygulama Marbella Natural Stone A.Ş. için geliştirilmiştir.
 
 
 ![1](https://github.com/nbc-hub/MarbellaStockApplication/assets/74993460/168f8137-4b16-4870-b70e-11a719619bbd)
